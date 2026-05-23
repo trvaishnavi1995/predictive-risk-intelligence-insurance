@@ -19,7 +19,7 @@ Using Python-based analytics tools, the project demonstrates practical experienc
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -30,7 +30,7 @@ Using Python-based analytics tools, the project demonstrates practical experienc
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 Dataset Source:
 [New York State Open Data – Workers’ Compensation Claims Dataset](https://data.ny.gov/Government-Finance/Assembled-Workers-Compensation-Claims-Beginning-20/jshw-gkgu/about_data)
 
