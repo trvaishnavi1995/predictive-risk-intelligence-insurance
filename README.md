@@ -1,9 +1,8 @@
-# predictive-risk-intelligence-insurance
+# Workers' Compensation - Claims Intelligence & Risk Analytics Using Python
 Predictive risk intelligence and claims analytics project for Workers’ Compensation insurance using Python, EDA, and data visualization.
 
 
-# Predictive Risk Intelligence & Claims Analytics in Workers’ Compensation Insurance
-
+# Workers' Compensation - Claims Intelligence & Risk Analytics Using Python
 ## Project Overview
 
 This is an insurance analytics project focused on analyzing Workers' Compensation claims data to uncover workforce risk patterns, injury trends, industry exposure, and geographic claim concentrations.
